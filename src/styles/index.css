@@ -30,3 +30,7 @@
 .glow{
     box-shadow: 0px 0px 9px 4px #535FED;
 }
+
+.shine {
+    box-shadow:  0 10px 20px 10px rgba(242, 171, 5, 0.853);
+}
